@@ -2,7 +2,7 @@
 <html>
 <head>
 <script language="JavaScript">
-if(window.location.protocol != 'https:') {
+if(window.location.protocol == 'http' && window.location.protocol != 'https:') {
   location.href = location.href.replace("http://", "https://");
 } 
 </script>	
