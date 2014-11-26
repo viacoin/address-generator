@@ -14,6 +14,7 @@ Please send DONATIONS for this project to Bitcoin Address:
 
 
 END USER NOTES: 
+
 1. To print QRCode in IE8 you must enable the "Print Background Colors and 
    Images" checkbox on the "Page Setup" screen.
 
